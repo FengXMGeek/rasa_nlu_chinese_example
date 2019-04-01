@@ -6,9 +6,10 @@ nlu作用：基本的NLU工具，包括实体识别和意图识别两个任务�
 
 硬件条件：32G内存（之前内存太小了导致训练不了）
 
-rasa-nlu文档：Getting Started with Rasa NLU
+rasa-nlu文档：https://rasa.com/docs/nlu/quickstart/
 
-前置条件：安装号python3和pip3（安装教程链接Centos7安装Python3.7 - 忧臣解读 - 博客园）  ，GCC高于等于4.9（因为pip3 install MITIE 需要高版本的GCC）
+前置条件：https://www.cnblogs.com/anxminise/p/9650206.html  
+GCC高于等于4.9（因为pip3 install MITIE 需要高版本的GCC）
 
 第一步：创建目录 mkdir rasa
 
